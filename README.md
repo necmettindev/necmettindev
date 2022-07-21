@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Neco</h1>
-<h3 align="center">A passionate full stacak developer from Turkey</h3>
+<h3 align="center">A passionate full stack developer from Turkey</h3>
 
 
 - 🔭 I’m currently working for **a software development company.**
 
 - 🌱 I’m currently learning **Clojure**
 
-- 💬 Ask me about **react, vue, go, node.js, php**
+- 💬 Ask me about **react, vue, nest.js, node.js, golang, flutter, php**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
