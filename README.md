@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Clojure**
 
-- 💬 Ask me about **react, vue, nest.js, node.js, golang, flutter, php**
+- 💬 Ask me about **react, vue, nest.js, node.js, go, flutter, php**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
